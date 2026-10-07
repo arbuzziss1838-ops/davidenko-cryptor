@@ -1,0 +1,58 @@
+C:\Users\User2\Desktop\Новая папка (2)\сурсы\Stub\obj\Release\ns0.GForm1.resources
+C:\Users\User2\Desktop\Новая папка (2)\сурсы\Stub\obj\Release\ns0.GForm2.resources
+C:\Users\User2\Desktop\Новая папка (2)\сурсы\Stub\obj\Release\Stub.csproj.GenerateResource.Cache
+C:\Users\User2\Desktop\Новая папка (2)\сурсы\Stub\bin\Release\Stub.exe.config
+C:\Users\User2\Desktop\Новая папка (2)\сурсы\Stub\bin\Release\Stub.exe
+C:\Users\User2\Desktop\Новая папка (2)\сурсы\Stub\bin\Release\Stub.pdb
+C:\Users\User2\Desktop\Новая папка (2)\сурсы\Stub\obj\Release\Stub.exe
+C:\Users\User2\Desktop\Новая папка (2)\сурсы\Stub\obj\Release\Stub.pdb
+C:\Users\User2\Desktop\Новая папка (2)\сурсы\Stub\obj\Release\ns0.BSODForm.resources
+C:\Users\User2\Desktop\Новая папка (2)\сурсы\Stub\bin\Release\mscorlib.dll
+C:\Users\User2\Desktop\Новая папка (2)\сурсы\Stub\bin\Release\System.Core.dll
+C:\Users\User2\Desktop\Новая папка (2)\сурсы\Stub\bin\Release\ru\mscorlib.resources.dll
+C:\Users\User2\Desktop\Новая папка (2)\сурсы\Stub\bin\Release\normidna.nlp
+C:\Users\User2\Desktop\Новая папка (2)\сурсы\Stub\bin\Release\normnfc.nlp
+C:\Users\User2\Desktop\Новая папка (2)\сурсы\Stub\bin\Release\normnfd.nlp
+C:\Users\User2\Desktop\Новая папка (2)\сурсы\Stub\bin\Release\normnfkc.nlp
+C:\Users\User2\Desktop\Новая папка (2)\сурсы\Stub\bin\Release\normnfkd.nlp
+C:\Users\User2\Desktop\Новая папка (2)\сурсы\Stub\obj\Release\Stub.csproj.AssemblyReference.cache
+C:\Users\User2\Desktop\Новая папка (2)\сурсы\Stub\obj\Release\Stub.csproj.SuggestedBindingRedirects.cache
+C:\Users\User2\Desktop\Новая папка (2)\сурсы\Stub\obj\Release\Stub.exe.config
+C:\Users\User2\Desktop\Новая папка (2)\сурсы\Stub\obj\Release\Stub.csproj.CoreCompileInputs.cache
+C:\Users\User2\Desktop\Новая папка (2)\сурсы\Stub\obj\Release\Stub.csproj.Up2Date
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488\Новая папка (2)\сурсы\Stub\obj\Release\Stub.csproj.AssemblyReference.cache
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488\Новая папка (2)\сурсы\Stub\obj\Release\ns0.GForm1.resources
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488\Новая папка (2)\сурсы\Stub\obj\Release\Stub.csproj.GenerateResource.cache
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488\Новая папка (2)\сурсы\Stub\obj\Release\Stub.csproj.CoreCompileInputs.cache
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488\Новая папка (2)\сурсы\Stub\obj\Release\Stub.exe
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488\Новая папка (2)\сурсы\Stub\obj\Release\Stub.pdb
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488\Новая папка (2)\сурсы\Stub\obj\Release\ns0.GForm2.resources
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488\Новая папка (2)\сурсы\Stub\bin\Release\Stub.exe.config
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488\Новая папка (2)\сурсы\Stub\bin\Release\Stub.exe
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488\Новая папка (2)\сурсы\Stub\bin\Release\Stub.pdb
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\obj\Release\Stub.csproj.AssemblyReference.cache
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\obj\Release\ns0.GForm1.resources
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\obj\Release\Stub.csproj.GenerateResource.cache
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\obj\Release\Stub.csproj.CoreCompileInputs.cache
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\obj\Release\Stub.exe
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\obj\Release\Stub.pdb
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\bin\Release\Stub.exe.config
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\bin\Release\Stub.exe
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\bin\Release\Stub.pdb
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\obj\Release\ns0.GForm2.resources
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\%OUTD%\Stub.exe.config
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\%OUTD%\Stub.exe
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\%OUTD%\Stub.pdb
+C:\Users\User2\AppData\Local\Temp\sc4\Stub.exe.config
+C:\Users\User2\AppData\Local\Temp\sc4\Stub.exe
+C:\Users\User2\AppData\Local\Temp\sc4\Stub.pdb
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\davidenko cryptor source code\сурсы\Stub\obj\Release\Stub.csproj.AssemblyReference.cache
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\davidenko cryptor source code\сурсы\Stub\obj\Release\ns0.GForm1.resources
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\davidenko cryptor source code\сурсы\Stub\obj\Release\ns0.GForm2.resources
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\davidenko cryptor source code\сурсы\Stub\obj\Release\Stub.csproj.GenerateResource.cache
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\davidenko cryptor source code\сурсы\Stub\obj\Release\Stub.csproj.CoreCompileInputs.cache
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\davidenko cryptor source code\сурсы\Stub\bin\Release\Stub.exe.config
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\davidenko cryptor source code\сурсы\Stub\bin\Release\Stub.exe
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\davidenko cryptor source code\сурсы\Stub\bin\Release\Stub.pdb
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\davidenko cryptor source code\сурсы\Stub\obj\Release\Stub.exe
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\davidenko cryptor source code\сурсы\Stub\obj\Release\Stub.pdb

@@ -1,0 +1,20 @@
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488\Новая папка (2)\сурсы\Stub\obj\Debug\Stub.csproj.AssemblyReference.cache
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488\Новая папка (2)\сурсы\Stub\obj\Debug\ns0.GForm1.resources
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488\Новая папка (2)\сурсы\Stub\obj\Debug\ns0.GForm2.resources
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488\Новая папка (2)\сурсы\Stub\obj\Debug\Stub.csproj.GenerateResource.cache
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488\Новая папка (2)\сурсы\Stub\obj\Debug\Stub.csproj.CoreCompileInputs.cache
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488\Новая папка (2)\сурсы\Stub\bin\Debug\Stub.exe.config
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488\Новая папка (2)\сурсы\Stub\bin\Debug\Stub.exe
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488\Новая папка (2)\сурсы\Stub\bin\Debug\Stub.pdb
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488\Новая папка (2)\сурсы\Stub\obj\Debug\Stub.exe
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488\Новая папка (2)\сурсы\Stub\obj\Debug\Stub.pdb
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\obj\Debug\Stub.csproj.AssemblyReference.cache
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\obj\Debug\ns0.GForm1.resources
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\obj\Debug\ns0.GForm2.resources
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\obj\Debug\Stub.csproj.GenerateResource.cache
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\obj\Debug\Stub.csproj.CoreCompileInputs.cache
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\obj\Debug\Stub.exe
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\obj\Debug\Stub.pdb
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\bin\Debug\Stub.exe.config
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\bin\Debug\Stub.exe
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\bin\Debug\Stub.pdb

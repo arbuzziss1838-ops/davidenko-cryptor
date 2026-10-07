@@ -1,0 +1,10 @@
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\bin\Release\Stub.exe.config
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\bin\Release\Stub.exe
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\bin\Release\Stub.pdb
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\obj\Any CPU\Release\Stub.csproj.AssemblyReference.cache
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\obj\Any CPU\Release\ns0.GForm1.resources
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\obj\Any CPU\Release\ns0.GForm2.resources
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\obj\Any CPU\Release\Stub.csproj.GenerateResource.cache
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\obj\Any CPU\Release\Stub.csproj.CoreCompileInputs.cache
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\obj\Any CPU\Release\Stub.exe
+C:\Users\User2\Desktop\ьклзпаувмщтш324121488 — копия\Новая папка (2)\сурсы\Stub\obj\Any CPU\Release\Stub.pdb
